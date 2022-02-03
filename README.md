@@ -1,4 +1,4 @@
-## Javalin Form Action
+## Javalin Forms Action
 ---
 ### Description
 
@@ -12,6 +12,6 @@ In this lab, we will cover the action attribute in forms.
 ---
 ### Sample Output
 ```Java
-"Your email is janed@email.com. You are applying for reimbursement for movie and the amount is $13."
+"Your email is janed@email.com. You are applying for reimbursement for movie and the amount is $13"
 ```
 ---
