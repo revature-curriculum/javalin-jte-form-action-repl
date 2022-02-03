@@ -1,21 +1,17 @@
-## Javalin Forms
+## Javalin Form Action
 ---
 ### Description
 
-In this lab you will add more parameters to a pre-existing form and modify the resulting print out.
+In this lab, we will cover the action attribute in forms.
 
 ---
 ### Steps
 
- 
-1. In src -> main -> jte -> form.jte modify the file to add a favorite color segment. 
-2. In src -> main -> java -> Main.java in the handler create a new string to hold the form parameter value for the favorite color.
-3. Main.java modify the ctx result to include a part for the new color segment.
-
+1. In src -> main -> jte -> form.jte, modify the action attribute to match the correct route from the Main.java file.
 
 ---
 ### Sample Output
 ```Java
-"Hello your name is Andy and your favorite color is pink!"
+"Your email is janed@email.com. You are applying for reimbursement for movie and the amount is $13."
 ```
 ---
